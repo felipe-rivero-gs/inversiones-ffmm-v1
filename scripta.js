@@ -10,7 +10,7 @@ dotenv.config();
 
   // Propiedades que deseas actualizar IMPORTANTE, deben asignarse los valores correspondientes al evento reemplazando los valores de ejemplo
   const propertiesToUpdate = {
-    "seleccion_de_fondos_digitales": "fondo-Defensivo" // Propiedad a actualizar con su valor correspondiente
+    "seleccion_de_fondos_digitales": "fondo_Defensivo" // Propiedad a actualizar con su valor correspondiente {fondo_Defensivo, fondo_Protegido, fondo_Balanceado, fondo_Audaz, fondo_Jugado}
   };
 
   // Función para actualizar propiedades del contacto
