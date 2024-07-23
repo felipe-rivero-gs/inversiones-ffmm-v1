@@ -1,0 +1,17 @@
+{
+  "name": "hubspot-inversiones",
+  "version": "1.0.0",
+  "description": "Este proyecto se encarga de actualizar las propiedades de contactos en HubSpot basándose en eventos específicos. Utiliza la API de HubSpot para buscar y actualizar contactos de manera automatizada.",
+  "main": "scripta.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
