@@ -24,7 +24,7 @@ dotenv.config();
     }
   
     console.log(`ID del contacto encontrado: ${contactId}`);
-  
+   
     // URL de la API para actualizar propiedades del contacto
     const url = `https://api.hubapi.com/crm/v3/objects/contacts/${contactId}`;
   
